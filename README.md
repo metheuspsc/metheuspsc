@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Developing myself as a Software Engineer while specializing in Finance.
 - 🎓 &nbsp; Economist
-- 💼 &nbsp; Working as **Automation Engineer** at <a href="LINK DA EMPRESA">Cameo Consulting</a>
+- 💼 &nbsp; Working as **Automation Engineer** at <a href="https://thecameoco.com/">Cameo Consulting</a>
 - 🌱 &nbsp; Learning more about **Python and Data Science**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
