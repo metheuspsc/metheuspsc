@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working as **Automation Engineer** at <a href="LINK DA EMPRESA">Cameo Consulting</a>
 - 🌱 &nbsp; Learning more about **Python and Data Science**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Languages and Applications**
 
