@@ -9,7 +9,7 @@
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
-**Languages and Applications**
+**Languages and Databases**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
