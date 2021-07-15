@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;About me </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Developing myself as a Software Engineer while specializing in Finance.
 - 🎓 &nbsp; Economist
 - 💼 &nbsp; Working as **Automation Engineer** at <a href="LINK DA EMPRESA">Cameo Consulting</a>
 - 🌱 &nbsp; Learning more about **Python and Data Science**.
