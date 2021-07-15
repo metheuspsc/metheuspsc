@@ -13,9 +13,10 @@
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=00599C)
-  ![SqlServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoftsqlserver&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoftsqlserver&logoColor=00599C)
 
 **Utilities**
 
@@ -27,7 +28,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-
+  
 **Development Tools**
 
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
