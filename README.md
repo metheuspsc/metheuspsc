@@ -11,12 +11,12 @@
 
 **Languages and Applications**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=Csharp)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoftsqlserver&logoColor=00599C)
+  ![SQLServer](https://img.shields.io/badge/-SqlServer-333333?style=flat&logo=microsoftsqlserver)
 
 **Utilities**
 
@@ -31,10 +31,10 @@
   
 **Development Tools**
 
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+  ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=asana)
 
 <br/>
 
