@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=metheuspsc&color=006bed)
 
-<h3> :man: &nbsp;About me </h3>
+<h3> :nerd_face: &nbsp;About me </h3>
 
 - 🤔 &nbsp; Developing myself as a Software Engineer while specializing in Finance.
 - 🎓 &nbsp; Economist
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Matheus Pessoa](https://img.shields.io/badge/-metheuspsc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuspsc/)](https://www.linkedin.com/in/matheuspsc/)
 [![Gmail Badge](https://img.shields.io/badge/-matheuspessoax@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuspessoax@gmail.com)](mailto:matheuspessoax@gmail.com)
