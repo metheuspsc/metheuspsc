@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 ![](https://komarev.com/ghpvc/?username=metheuspsc&color=006bed)
 
 <h3> :nerd_face: &nbsp;About me </h3>
