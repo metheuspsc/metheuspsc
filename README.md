@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Developing myself as a Software Engineer while specializing in Finance.
 - 🎓 &nbsp; Economist
-- 💼 &nbsp; Working as **Automation Engineer** at <a href="https://thecameoco.com/">Cameo Consulting</a>
+- 💼 &nbsp; Working as **SDET** at <a href="https://thecameoco.com/">Recharge Payments</a>
 - 🌱 &nbsp; Learning more about **Python and Data Science**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
